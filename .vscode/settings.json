@@ -1,3 +1,17 @@
 {
-    "dbcode.connections": []
+    "dbcode.connections": [
+        {
+            "connectionId": "6t7miqf0mgZK4y1voNGex",
+            "name": "PostgresTAREACLASE2",
+            "driver": "postgres",
+            "connectionType": "host",
+            "host": "localhost",
+            "port": 5432,
+            "ssl": false,
+            "username": "postgres",
+            "password": "",
+            "savePassword": "secretStorage",
+            "connectionTimeout": 30
+        }
+    ]
 }
